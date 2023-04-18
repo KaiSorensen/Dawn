@@ -3,8 +3,8 @@
  * Language: Java
 
 ## Overview
-  Dawn implements the most basic neural network, trained to
-  recognize single handwritten digits from the standard Mnist dataset.
+  Dawn is a ground-up implementation of a basic neural network trained
+  to recognize single handwritten digits from the standard Mnist dataset.
   It can correctly identify about 95% of data within the dataset that it 
   hasn't seen before. This project also inludes a GUI to see exactly what
   digit it's identifying, and how confident it is.
