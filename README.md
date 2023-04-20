@@ -1,4 +1,4 @@
-# DAWN
+# DAWN (Introductory Neural Network)
  * Author: Kai Sorensen
  * Language: Java
 
