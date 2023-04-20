@@ -46,15 +46,33 @@
 ## How to Run
 
   First, compile all files
-    from command line: $ javac *.java
+    from command line: 
+    ```
+    $ javac *.java
+    ```
 
   For GUI experience, run Dawndow
-    from command line: $ java Dawndow
+    from command line: 
+    ```
+    $ java Dawndow
+    ```
 
   To train, run DawnTools.java with hardcoded data range
-    from command line: set data range: vim DawnTools.java
-    from command line: recompile: javac DawnTools.java
-    from command line: java DawnTools
-
+    from command line: set data range: 
+    ```
+    vim DawnTools.java
+    ```
+    from command line: recompile: 
+    ```
+    javac DawnTools.java
+    ```
+    from command line: 
+    ```
+    java DawnTools
+    ```
+    
   TO ERASE AND RANDOMIZE WEIGHTS AND BIASES
     run WisdomSetup.java
+    ```
+    java WisdomSetup
+    ```
