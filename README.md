@@ -57,7 +57,7 @@
     $ java Dawndow
     ```
 
-  To train, run DawnTools.java with hardcoded data range
+  To train and test, run DawnTools.java with hardcoded data range
     from command line: set data range: 
     ```
     vim DawnTools.java
